@@ -1,1 +1,3 @@
+$ touch .gitignore
 images/**
+images
