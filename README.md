@@ -1,5 +1,5 @@
 # Information
-Display for T1-T5 ores, minerals, general storage, and gasses. Will show the icon of selected element.
+This is a direct seeder for multi seed planting. Will plant most seeds in game.
 > **Note**
 > Last confirmed compatible game version: 1.7.0.1
 
