@@ -432,7 +432,7 @@
         </fillVolumeConfigurations>
     </fillVolume>
     <sowingMachine fillUnitIndex="1">
-        <seedFruitTypes>wheat barley oat canola sorghum sunflower soybean maize potato sugarbeet cotton sugarcane poplar oilseedRadish grass</seedFruitTypes>
+        <seedFruitTypes>wheat barley oat canola sorghum sunflower soybean maize potato sugarbeet cotton sugarcane poplar oilseedRadish grass alfalfa buckwheat carrots onions clover hops flax mustard peas raspberries rye</seedFruitTypes>
         <needsActivation value="true"/>
         <useDirectPlanting value="true"/>
         <fieldGroundType value="PLANTED"/>
