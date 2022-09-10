@@ -34,8 +34,8 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game.
 - :green_square: Poplar Tree
 - :red_square: Fir Tree
 - :green_square: Oilseed Radish
-- :green_square: Liquid Fertilizer
-- :red_square: Solid Fertilizer
+- :red_square: Liquid Fertilizer
+- :green_square: Solid Fertilizer
 - :red_square: Herbicide
 
 # Ways To Help
