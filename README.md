@@ -32,6 +32,16 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game.
 - :green_square: Sugar Beat
 - :green_square: Sugarcane
 - :green_square: Cotton
+- :green_square: Buckwheat
+- :green_square: Onion
+- :green_square: Hops
+- :green_square: Mustard
+- :green_square: Peas
+- :green_square: Raspberries
+- :green_square: Rye
+- :green_square: Carrot
+- :green_square: Linum
+- :green_square: Alfalfa
 - :red_square: Grapes
 - :red_square: Olives
 - :green_square: Grass
