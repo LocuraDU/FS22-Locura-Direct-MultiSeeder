@@ -1,3 +1,6 @@
+> **Note**
+> For the current working/safe release download using the release links on the right. For the latest testing build download the main branch.
+
 # Information
 This is a direct seeder for multi seed planting. Will plant most seeds in game.
 > **Note**
