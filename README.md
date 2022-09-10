@@ -7,7 +7,8 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game.
 > Last confirmed compatible game version: 1.7.0.1
 
 # Preview
-![Image of Screen](images/Screenshot%20(168).png?raw=true)
+![Image of Screen](images/Screenshot%20(176).png?raw=true)
+![Image of Screen](images/Screenshot%20(177).png?raw=true)
 
 # Current Parameter Options
 - Wheel Brand
