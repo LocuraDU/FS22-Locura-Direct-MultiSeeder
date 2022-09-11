@@ -1,5 +1,5 @@
 # Information
-This is a direct seeder for multi seed planting. Will plant most seeds in game.
+This is a direct seeder for multi seed planting. Will plant most seeds in game. Seeder also has support for multiple mods that add new seeds and plants in game.
 > **Note**
 > Last confirmed compatible game version: 1.7.0.1
 
