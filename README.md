@@ -1,12 +1,28 @@
 # Information
 This is a direct seeder for multi seed planting. Will plant most seeds in game. Seeder also has support for multiple mods that add new seeds and plants in game.
-> **Note**
-> Last confirmed compatible game version: 1.7.0.1
+
+[![](https://img.shields.io/badge/FS22-1.7.0.1-green?style=for-the-badge&logo=steam)](#)
+[![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
+[![GitHub release](https://img.shields.io/github/release/LocuraDU/FS22-Locura-Direct-MultiSeeder?include_prereleases=&sort=semver&color=blue&style=for-the-badge)](https://github.com/LocuraDU/FS22-Locura-Direct-MultiSeeder/releases/)
+---
+[![](https://img.shields.io/github/issues/locuradu/FS22-Locura-Direct-MultiSeeder?style=flat-square&label=ISSUES)](#)
+[![](https://img.shields.io/github/issues-closed/locuradu/FS22-Locura-Direct-MultiSeeder?style=flat-square&label=ISSUES)](#)
+[![](https://img.shields.io/github/watchers/locuradu/FS22-Locura-Direct-MultiSeeder?style=flat-square&label=WATCHERS)](#)
+[![](https://img.shields.io/github/stars/locuradu/FS22-Locura-Direct-MultiSeeder?style=flat-square&label=STARS)](#)
+[![](https://img.shields.io/github/forks/locuradu/FS22-Locura-Direct-MultiSeeder?style=flat-square&label=FORKS)](#)
+[![](https://img.shields.io/github/commit-activity/w/locuradu/FS22-Locura-Direct-MultiSeeder?style=flat-square&label=COMMIT+ACTIVITY)](#)
+[![](https://img.shields.io/github/discussions/locuradu/FS22-Locura-Direct-MultiSeeder?label=DISCUSSIONS&style=flat-square)](#)
+[![](https://img.shields.io/github/release-date/locuradu/FS22-Locura-Direct-MultiSeeder?label=VERSION%20RELEASE&style=flat-square)](#)
+[![](https://img.shields.io/github/last-commit/locuradu/FS22-Locura-Direct-MultiSeeder?label=LAST+COMMIT&style=flat-square)](#)
+[![](https://img.shields.io/github/contributors/locuradu/FS22-Locura-Direct-MultiSeeder?label=CONTRIBUTORS&style=flat-square)](#)
+[![](https://img.shields.io/github/releases/locuradu/FS22-Locura-Direct-MultiSeeder?label=RELEASES&style=flat-square)](#)
+
+
 
 # Download
-Download Link https://github.com/LocuraDU/FS22-Locura-Direct-MultiSeeder/raw/main/downloads/FS22-Locura-Direct-MultiSeeder-1.1.zip
-> **Warning**
-> If you download from the releases page you will have to re zip the file. Please use above link.
+[![](https://img.shields.io/badge/RELEASE-Download_v1.1-green?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/BETA-Download_v1.2b-green?style=for-the-badge)](#)
+[![](https://img.shields.io/badge/SOURCE-Download-green?style=for-the-badge)](#)
 
 # Preview
 ![Image of Screen](images/Screenshot%20(176).png?raw=true)
