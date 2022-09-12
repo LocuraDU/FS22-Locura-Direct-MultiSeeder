@@ -24,6 +24,12 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 [![](https://img.shields.io/badge/BETA-Download_v1.2b-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fbeta%2Fsource&rootDirectory=false&fileName=FS22-Locura-Direct-MultiSeeder)
 [![](https://img.shields.io/badge/SOURCE-Download-green?style=for-the-badge)](https://github.com/LocuraDU/FS22-Locura-Direct-MultiSeeder/releases)
 
+> **Note**
+> Both the Release and Beta downloads are ready for use. Just place .zip in mods folder.
+
+> **Warning**
+> Source download will not work if placed in mod folder and is not game ready.
+
 # Preview
 ![Image of Screen](images/Screenshot%20(176).png?raw=true)
 ![Image of Screen](images/Screenshot%20(177).png?raw=true)
