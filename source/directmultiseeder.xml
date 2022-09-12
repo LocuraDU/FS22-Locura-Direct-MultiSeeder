@@ -12,7 +12,7 @@
             <function>$l10n_function_sowingMachine</function>
        <function>$l10n_function_sowingMachineDirect</function>
 	   </functions>
-        <image>store_citan15001C.png</image>
+        <image>store_directmultiseeder.png</image>
         <price>5000</price>
         <lifetime>2000</lifetime>
         <rotation>0</rotation>

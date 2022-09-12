@@ -8,7 +8,7 @@
     <description>
         <en>Locrua Direct Multi-Seeder</en>
     </description>
-    <iconFilename>store_citan15001C.dds</iconFilename>
+    <iconFilename>icon_directmultiseeder.dds</iconFilename>
     <storeItems>
         <storeItem xmlFilename="directmultiseeder.xml"/>
     </storeItems>
