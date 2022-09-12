@@ -67,3 +67,14 @@ Locura Mods develops mods for multiple games including Dual Universe, The Sims 4
 "Locura Property Management" is an organization that rents territories for mining or other uses. Fees are due on a pre-determined basis that fits your play times. Fees are payable in Ore, Quanta, or anything else of value.
 
 You may also VR to our store in Dual universe at "Locura Mining Co".  
+
+---
+
+![GitHub stars](https://img.shields.io/github/stars/LocuraDU/FS22-Locura-Direct-MultiSeeder?style=plastic)
+![GitHub forks](https://img.shields.io/github/forks/LocuraDU/FS22-Locura-Direct-MultiSeeder?style=plastic)
+![GitHub watchers](https://img.shields.io/github/watchers/LocuraDU/FS22-Locura-Direct-MultiSeeder?style=plastic)
+![GitHub followers](https://img.shields.io/github/followers/LocuraDU?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/LocuraDU/FS22-Locura-Direct-MultiSeeder?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/LocuraDU/FS22-Locura-Direct-MultiSeeder?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/LocuraDU/FS22-Locura-Direct-MultiSeeder?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/LocuraDU/FS22-Locura-Direct-MultiSeeder?color=red&style=plastic)
