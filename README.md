@@ -8,6 +8,15 @@ Download Link https://github.com/LocuraDU/FS22-Locura-Direct-MultiSeeder/raw/mai
 > **Warning**
 > If you download from the releases page you will have to re zip the file. Please use above link.
 
+![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/USER/REPOSITORY?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/USER/REPOSITORY?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/USER/REPOSITORY?color=red&style=plastic)
+
 # Preview
 ![Image of Screen](images/Screenshot%20(176).png?raw=true)
 ![Image of Screen](images/Screenshot%20(177).png?raw=true)
