@@ -1,7 +1,7 @@
 # Information
 This is a direct seeder for multi seed planting. Will plant most seeds in game. Seeder also has support for multiple mods that add new seeds and plants in game.
 
-[![](https://img.shields.io/badge/FS22-1.7.0.1-green?style=for-the-badge&logo=steam)](#)
+[![](https://img.shields.io/badge/FS22-1.7.1.0-green?style=for-the-badge&logo=steam)](#)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 [![GitHub release](https://img.shields.io/github/release/LocuraDU/FS22-Locura-Direct-MultiSeeder?include_prereleases=&sort=semver&color=blue&style=for-the-badge)](https://github.com/LocuraDU/FS22-Locura-Direct-MultiSeeder/releases/)
 ---
