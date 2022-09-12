@@ -3,6 +3,9 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 > **Note**
 > Last confirmed compatible game version: 1.7.0.1
 
+# Download
+Download Link to the right or visit https://github.com/LocuraDU/FS22-Locura-Direct-MultiSeeder/releases
+
 # Preview
 ![Image of Screen](images/Screenshot%20(176).png?raw=true)
 ![Image of Screen](images/Screenshot%20(177).png?raw=true)
