@@ -20,8 +20,8 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 
 
 # Download
-[![](https://img.shields.io/badge/RELEASE-Download_v1.2-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fmain%2Fsource&rootDirectory=false&fileName=FS22-Locura-Direct-MultiSeeder)
-[![](https://img.shields.io/badge/BETA-Download_v1.2b-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fbeta%2Fsource&rootDirectory=false&fileName=FS22-Locura-Direct-MultiSeeder)
+[![](https://img.shields.io/badge/RELEASE-Download_v1.2-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fmain%2Fsource&rootDirectory=false&fileName=FS22_Locura_Direct_MultiSeeder)
+[![](https://img.shields.io/badge/BETA-Download_v1.2b-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fbeta%2Fsource&rootDirectory=false&fileName=FS22_Locura_Direct_MultiSeeder)
 [![](https://img.shields.io/badge/SOURCE-Download-green?style=for-the-badge)](https://github.com/LocuraDU/FS22-Locura-Direct-MultiSeeder/releases)
 
 > **Note**
