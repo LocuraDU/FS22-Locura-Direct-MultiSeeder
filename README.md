@@ -76,7 +76,7 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 - :green_square: Solid Fertilizer
 - :red_square: Herbicide
 
-# Map Support
+# Added Map Support
 - :green_square: Yukon Valley
 - :green_square: Agricultural Land
 
