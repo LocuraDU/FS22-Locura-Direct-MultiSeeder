@@ -44,6 +44,10 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 - License Plate
 
 # Item Compatibility
+
+> **Warning**
+> Please check your map for planting support. Not all maps will support all items.
+
 - :green_square: Wheat
 - :green_square: Barley
 - :green_square: Canola
@@ -66,6 +70,12 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 - :green_square: Carrot
 - :green_square: Linum
 - :green_square: Alfalfa
+- :green_square: Clover
+- :green_square: Hemp
+- :green_square: Meadow Grass
+- :green_square: Grapes
+- :green_square: Lavender
+- :green_square: Olives
 - :red_square: Grapes
 - :red_square: Olives
 - :green_square: Grass
