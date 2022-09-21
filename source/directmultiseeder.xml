@@ -432,7 +432,7 @@
         </fillVolumeConfigurations>
     </fillVolume>
     <sowingMachine fillUnitIndex="1">
-        <seedFruitTypes>wheat barley oat canola sorghum maize sunflower soybean potato sugarbeet cotton sugarcane poplar oilseedRadish grass alfalfa alfala buckwheat carrots carrot onions olive clover hops clover hemp meadow flax grape mustard peas raspberries rye lavender maize</seedFruitTypes>
+        <seedFruitTypes>wheat barley oat canola sorghum maize sunflower soybean potato sugarbeet cotton sugarcane poplar oilseedRadish grass alfalfa alfala buckwheat carrots carrot maize onions olive clover hops clover hemp meadow flax grape mustard peas raspberries rye lavender</seedFruitTypes>
         <needsActivation value="true"/>
         <useDirectPlanting value="true"/>
         <fieldGroundType value="PLANTED"/>
