@@ -20,10 +20,9 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 
 
 # Download
-[![](https://img.shields.io/badge/RELEASE-Download_v1.2-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fmain%2Fsource&rootDirectory=false&fileName=FS22_Locura_Direct_MultiSeeder)
-[![](https://img.shields.io/badge/BETA-Download_v1.2b-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fbeta%2Fsource&rootDirectory=false&fileName=FS22_Locura_Direct_MultiSeeder)
+[![](https://img.shields.io/badge/RELEASE-Download_v1.3-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fmain%2Fsource&rootDirectory=false&fileName=FS22_Locura_Direct_MultiSeeder)
+[![](https://img.shields.io/badge/BETA-Download_v1.3b-green?style=for-the-badge)](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2FLocuraDU%2FFS22-Locura-Direct-MultiSeeder%2Ftree%2Fbeta%2Fsource&rootDirectory=false&fileName=FS22_Locura_Direct_MultiSeeder)
 [![](https://img.shields.io/badge/SOURCE-Download-green?style=for-the-badge)](https://github.com/LocuraDU/FS22-Locura-Direct-MultiSeeder/releases)
-
 > **Note**
 > Both the Release and Beta downloads are ready for use. Just place .zip in mods folder.
 
@@ -44,6 +43,10 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 - License Plate
 
 # Item Compatibility
+
+> **Warning**
+> Please check your map for planting support. Not all maps will support all items.
+
 - :green_square: Wheat
 - :green_square: Barley
 - :green_square: Canola
@@ -66,6 +69,12 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 - :green_square: Carrot
 - :green_square: Linum
 - :green_square: Alfalfa
+- :green_square: Clover
+- :green_square: Hemp
+- :green_square: Meadow Grass
+- :green_square: Grapes
+- :green_square: Lavender
+- :green_square: Olives
 - :red_square: Grapes
 - :red_square: Olives
 - :green_square: Grass
@@ -75,6 +84,10 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 - :red_square: Liquid Fertilizer
 - :green_square: Solid Fertilizer
 - :red_square: Herbicide
+
+# Added Map Support
+- :green_square: Yukon Valley
+- :green_square: Agricultural Land
 
 # Ways To Help
 - Contribute new code, or updating whats already here
