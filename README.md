@@ -36,7 +36,7 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 # Current Parameter Options
 - Wheel Brand
 - Wheel Setup
-- Compacity
+- Capacity
 - Main Color
 - Design Color
 - Rim Color
