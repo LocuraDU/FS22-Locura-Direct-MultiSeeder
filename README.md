@@ -88,8 +88,9 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 - :red_square: Herbicide
 
 # Added Map Support
-- :green_square: Yukon Valley
-- :green_square: Agricultural Land
+- :green_square: Agricultural Land (Added v1.2)
+- :green_square: Yukon Valley (Added v1.3)
+- :green_square: South Louisiana (Added v1.4)
 
 # Ways To Help
 - Contribute new code, or updating whats already here
