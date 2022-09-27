@@ -75,6 +75,8 @@ This is a direct seeder for multi seed planting. Will plant most seeds in game. 
 - :green_square: Grapes
 - :green_square: Lavender
 - :green_square: Olives
+- :green_square: Millet
+- :green_square: Rice
 - :red_square: Grapes
 - :red_square: Olives
 - :green_square: Grass
